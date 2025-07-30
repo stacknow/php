@@ -1,0 +1,12 @@
+# OS-specific files
+.DS_Store
+
+# Node and npm (if applicable in your workspace)
+node_modules/
+
+# Logs
+*.log
+
+# Docker-related
+docker-compose.override.yml
+.env
